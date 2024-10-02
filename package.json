@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@types/node": "^22.5.4",
-    "node-xlsx": "^0.24.0"
+    "@types/node": "^22.5.4"
   }
 }

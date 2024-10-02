@@ -235,7 +235,7 @@ enum Scripts {
   prompt = "prompt.py",
 }
 
-export default class pyautogui {
+export class pyautogui {
   constructor(
     readonly projectPath: string = __dirname,
     readonly scriptPath: string = "../utils/pyautogui",
